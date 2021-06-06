@@ -11,27 +11,27 @@ The first visual provides some insights on the customer breakdown. Through exami
 
 With the second visual, we are able to derive the most and least frequent ride times. The most popular times to ride being 8AM, 5PM and 6PM, and the least popular times to ride being 2AM - 4AM inclusively. 
 
-(image)
+![aug_peak_hrs.png](https://github.com/vanessamignelli/bikesharing/blob/main/Resources/aug_peak_hrs.png)
 
 The third visual examines total time bikes are checked out for all riders. From this, we are able to derive that close to 150 thousand bikes were checked out for under an hour.
 
-(image)
+![user_checkout.png](https://github.com/vanessamignelli/bikesharing/blob/main/Resources/user_checkout.png)
 
 The fourth visual aslo examines the total time bikes are checked out for all riders, but it is further categorized by gender. In this we can see that over 100 thousand were checked out by males, close to 40 thousands checked out by females and the remaining were unknown.
 
-(image)
+![user_checkout_gender.png](https://github.com/vanessamignelli/bikesharing/blob/main/Resources/user_checkout_gender.png)
 
 The fifth image is a heatmap depicting the number of bike trips by weekday for each hour of the day. From this, it can be deducted that from Mon-Fri the most popular times for riding were 8AM and 5PM-6PM inclusively, with the greatest number of bike trips taking place at 6PM on Thursdays. 
 
-(image)
+![hr_day_trips.png](https://github.com/vanessamignelli/bikesharing/blob/main/Resources/hr_day_trips.png)
 
 The sixth image aims to examine the same thing as the fifth, but is now segmented by gender. Similar patterns can be viewed between those who identified as males and females, with most rides taking place on Mon-Fri at 8AM and 5PM-6PM. However, the greater volume of these rides were taken by males than any other gender category. Thursday at 6PM contains the greatest amount of rides for both males and females. The unknown category follows no obvious pattern, but the most rides taken for this category happened on Saturdays. 
 
-(image)
+![hr_day_trips_gender.png](https://github.com/vanessamignelli/bikesharing/blob/main/Resources/hr_day_trips_gender.png)
 
 The final image displays the number of bike trips by usertype and gender, for each day of the week as a heatmap. Within this heatmap it can be deduced that subscribers to the service have taken more trips than non-subscribers, with the greatest numbers of rides taken by males. For male and female subscribers, the most popular days to ride were Thursdays, Fridays and Tuesdays, respectively. Whereas non-subscribers most popular days to ride were Saturdays and Sundays, with the highest number of rides taken from the unknown category. 
 
-(image). 
+![weekday_user_cat.png](https://github.com/vanessamignelli/bikesharing/blob/main/Resources/weekday_user_cat.png) 
 
 ## Summary
 
