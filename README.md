@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The purpose of this analysis is to leverage visualizations made with Tableau to determine the feasibility of a bike-sharing program in Des Moines, using a dataset from Citibike in New York. Various analyses were completed on the trip duration, frequency and ride time, and curated in a Tableau stoty.
+The purpose of this analysis is to leverage visualizations made with Tableau to determine the feasibility of a bike-sharing program in Des Moines, using a dataset from August, 2019 Citibike in New York. Various analyses were completed on the trip duration, frequency and ride time, and curated in a Tableau stoty. The full analysis can be found here: [Citibike August 2019 - Riders Story](https://public.tableau.com/app/profile/vanessa.mignelli/viz/CitibikeAugust2019Story/CitibikeRidersStory)
 
 ## Results
 
