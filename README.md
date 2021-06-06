@@ -7,7 +7,7 @@ The purpose of this analysis is to leverage visualizations made with Tableau to 
 
 The first visual provides some insights on the customer breakdown. Through examining the pie chart below, we can derive that the total number of customers was 2,344,224. Of the total customers, 1,900,359 were subscribers to Citibike. The remaining 443,865 were casual or non-subscription customers.
 
-(image)
+![category_customers](https://public.tableau.com/app/profile/vanessa.mignelli/viz/Customers_16220827252740/Customers)
 
 With the second visual, we are able to derive the most and least frequent ride times. The most popular times to ride being 8AM, 5PM and 6PM, and the least popular times to ride being 2AM - 4AM inclusively. 
 
